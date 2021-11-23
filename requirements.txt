@@ -1,0 +1,17 @@
+rbo~=0.1.2
+tabulate~=0.8.9
+scipy~=1.6.3
+PyYAML~=5.4.1
+pandas~=1.2.4
+numpy~=1.20.3
+seaborn~=0.11.1
+matplotlib~=3.4.2
+stix2~=2.1.0
+attackcti~=0.3.4.3
+requests~=2.25.1
+simplejson~=3.17.2
+plotly~=4.14.3
+python-igraph~=0.9.4
+ipykernel~=6.4.1
+pycairo~=1.20.1
+nbformat~=5.1.3
